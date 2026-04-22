@@ -16,7 +16,7 @@ public class largest
         }
          //reverse array
         m=a[0];
-        for(i=1;i<0;i++)
+        for(i=1;i<n;i++)
         {
             if(a[i]>m)
             {
